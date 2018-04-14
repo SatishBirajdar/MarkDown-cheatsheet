@@ -1,4 +1,4 @@
-[List](#lists:)
+[Lists](#lists)
 
 
 # Headers:
